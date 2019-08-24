@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../../微服务架构源码/microservicecloud/pom.xml" />
+        <option value="$PROJECT_DIR$/../../微服务架构源码/microservicecloud/microservicecloud-api/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/../../微服务架构源码/microservicecloud/microservicecloud-config-3344/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/../../微服务架构源码/microservicecloud/microservicecloud-eureka-7001/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/../../微服务架构源码/microservicecloud/microservicecloud-eureka-7002/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/../../微服务架构源码/microservicecloud/microservicecloud-eureka-7003/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/../../微服务架构源码/microservicecloud/microservicecloud-consumer-dept-80/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/../../微服务架构源码/microservicecloud/microservicecloud-zuul-gateway-9527/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/../../微服务架构源码/microservicecloud/microservicecloud-config-client-3355/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/../../微服务架构源码/microservicecloud/microservicecloud-provider-dept-8001/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/../../微服务架构源码/microservicecloud/microservicecloud-provider-dept-8002/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/../../微服务架构源码/microservicecloud/microservicecloud-provider-dept-8003/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/../../微服务架构源码/microservicecloud/microservicecloud-consumer-dept-feign/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/../../微服务架构源码/microservicecloud/microservicecloud-config-dept-client-8001/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/../../微服务架构源码/microservicecloud/microservicecloud-config-eureka-client-7001/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/../../微服务架构源码/microservicecloud/microservicecloud-consumer-hystrix-dashboard/target/maven-archiver/pom.properties" />
+        <option value="$PROJECT_DIR$/../../微服务架构源码/microservicecloud/microservicecloud-provider-dept-hystrix-8001/target/maven-archiver/pom.properties" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
